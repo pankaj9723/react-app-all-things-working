@@ -1,4 +1,4 @@
-function footer() {
+function Footers() {
   return (
     <>
      <ul className="nav justify-content-center">
@@ -19,4 +19,4 @@ function footer() {
   );
 }
 
-export default footer;
+export default Footers;
